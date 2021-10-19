@@ -1,0 +1,34 @@
+/* p.intro {
+  color: red;
+  font-style:italic;
+}
+
+h2.intro {
+  color: gray;
+}
+
+img.intro {
+  border: 2px;
+  width: 50%;
+} */
+
+
+.paragraph {
+  color:red;
+  font-style: italic;
+}
+
+.heading {
+  color:gray;
+}
+
+img {
+  border: 2px;
+  width: 50%;
+  border:20px red
+}
+
+.intro {
+  box-sizing: border-box;
+  /* border:20px red; */
+}
